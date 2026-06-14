@@ -12,6 +12,8 @@ The sole reason this exists, is because I do not want to double-click a text obj
 
 You can press Control/Cmd+Enter when you're done to submit the text and dismiss the dialog box.
 
+- [Edit Text](/Edit%20Text.jsx)
+
 ### Text Splitting
 #### Edge to Edge
 
