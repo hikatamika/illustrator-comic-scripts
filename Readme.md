@@ -35,3 +35,6 @@ They make it easy to make diamond-shaped comic dialogue for word balloons, and, 
 - [Add Break to Second to Top](/Add%20Break%20to%20Second%20to%20Top.jsx)
 - [Add Break to Second to Bottom](/Add%20Break%20to%20Second%20to%20Bottom.jsx)
 - [Add Break to Bottom](/Add%20Break%20to%20Bottom.jsx)
+
+#### [Reset Line Breaks](/Reset%20Line%20Breaks.jsx)
+ A simple script to undo all the line breaks I put if I changed my mind and want to balance a line a different way.
