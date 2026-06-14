@@ -4,15 +4,13 @@ ExtendScript utilities for easier comic typesetting in Adobe Illustrator.
 ## Descriptions
 
 ### Text Editing
-#### Edit Text
+#### [Edit Text](/Edit%20Text.jsx)
 
 A basic script that, when called while a text object is selected, brings up a dialog box that allows you to edit the text of the selected text object.
 
 The sole reason this exists, is because I do not want to double-click a text object to edit its contents.
 
 You can press Control/Cmd+Enter when you're done to submit the text and dismiss the dialog box.
-
-- [Edit Text](/Edit%20Text.jsx)
 
 ### Text Splitting
 #### Edge to Edge
